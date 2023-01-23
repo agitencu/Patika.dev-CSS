@@ -28,3 +28,10 @@ body {
     color: #000;
   }
 
+
+  footer ul li{
+    text-decoration: none;
+    display: inline-block;
+    color:green ;
+
+  }
